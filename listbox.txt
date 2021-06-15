@@ -1,0 +1,2 @@
+Fatal: Can't find unit winctr used by Program
+Fatal: Compilation aborted
